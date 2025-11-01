@@ -5,5 +5,6 @@ compatibility_date = "2024-07-24"
 compatibility_flags = ["nodejs_compat"]
 
 kv_namespaces = [
-  { binding = "sublink-origin", id = "a9ee688029c345bea7c141885ffc8307" }
+  { binding = "sublink-origin", id = "a9ee688029c345bea7c141885ffc8307" },
+  { binding = "sublink-worker-SUBLINK_KV", id = "92b2f8fb46684b68af2c70e9edc154b2" }
 ]
